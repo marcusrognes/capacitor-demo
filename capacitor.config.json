@@ -1,0 +1,11 @@
+{
+  "appId": "com.demo.app",
+  "appName": "demo",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
